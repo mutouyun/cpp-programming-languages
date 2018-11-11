@@ -8,8 +8,6 @@
    5. ISO/IEC 10646-1:1993, Information technology — Universal Multiple-Octet Coded Character Set \(UCS\) — Part 1: Architecture and Basic Multilingual Plane
    6. ISO/IEC/IEEE 60559:2011, Information technology — Microprocessor Systems — Floating-Point arithmetic
    7. ISO 80000-2:2009, Quantities and units — Part 2: Mathematical signs and symbols to be used in the natural sciences and technology
-2. 在ISO/IEC 9899:2011的第7款中所描述的库在下文中被称为_C标准库_[^1]。
+2. 在ISO/IEC 9899:2011的第7款中所描述的库在下文中被称为_C标准库_。
 3. 在ISO/IEC 9945:2003中所描述的操作系统接口在下文中被称为_POSIX_。
 4. 在Ecma-262标准中所描述的ECMAScript语言规范在下文中被称为_ECMA-262_。
-
-[^1]: With the qualifications noted in Clauses 21 through 33 and in C.5, the C standard library is a subset of the C++ standard library.
