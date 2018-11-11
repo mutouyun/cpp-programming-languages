@@ -12,5 +12,4 @@
 3. 在ISO/IEC 9945:2003中所描述的操作系统接口在下文中被称为_POSIX_。
 4. 在Ecma-262标准中所描述的ECMAScript语言规范在下文中被称为_ECMA-262_。
 
-[^1]: With the qualifications noted in Clauses 21 through 33 and in C.5, the C standard library is a subset of the C++ standard
-library.
+[^1]: With the qualifications noted in Clauses 21 through 33 and in C.5, the C standard library is a subset of the C++ standard library.
