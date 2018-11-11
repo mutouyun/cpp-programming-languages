@@ -6,5 +6,5 @@
 
 * [序言](iso-iec-14882-2017/foreword.md)
 * [1、范围](iso-iec-14882-2017/scope.md)
-* [2、参考标准](iso-iec-14882-2017/2-can-kao-biao-zhun.md)
+* [2、参考标准](iso-iec-14882-2017/normative-references.md)
 
