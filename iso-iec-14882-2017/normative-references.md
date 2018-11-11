@@ -6,9 +6,7 @@
    3. ISO/IEC 9899:2011, Programming languages — C
    4. ISO/IEC 9945:2003, Information Technology — Portable Operating System Interface \(POSIX\)
    5. ISO/IEC 10646-1:1993, Information technology — Universal Multiple-Octet Coded Character Set \(UCS\)
-
       — Part 1: Architecture and Basic Multilingual Plane
-
    6. ISO/IEC/IEEE 60559:2011, Information technology — Microprocessor Systems — Floating-Point arithmetic
    7. ISO 80000-2:2009, Quantities and units — Part 2: Mathematical signs and symbols to be used in the natural sciences and technology
 2. 在ISO/IEC 9899:2011的第7款中所描述的库在下文中被称为_C标准库_[^1]。
