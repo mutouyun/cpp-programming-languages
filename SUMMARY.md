@@ -8,5 +8,6 @@
 * [1、范围](iso-iec-14882-2017/1-scope.md)
 * [2、参考标准](iso-iec-14882-2017/2-normative-references.md)
 * [3、术语和定义](iso-iec-14882-2017/3-terms-and-definitions.md)
+* [5、词法约定](iso-iec-14882-2017/5-lexical-conventions.md)
 * [6、基本概念](iso-iec-14882-2017/6-basic-concepts.md)
 
