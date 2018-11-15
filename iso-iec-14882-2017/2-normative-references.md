@@ -1,6 +1,6 @@
-# 2、参考标准
+# 2 Normative references 参考标准
 
-下列文件在文本中以它们的部分或全部内容构成了本文档的要求。对于注明了日期的引用文件，只有当前引用的版本适用。对于未注明日期的引用文件，则其最新版本（包括任何的修订）适用。
+本文档引用了下列文件的部分或全部内容来构成本文档的条目。对于注明了日期的引用文件，只有当前引用的版本适用。对于未注明日期的引用文件，则其最新版本（包括任何的修订）适用。
 
 1. Ecma International, _ECMAScript Language Specification_, Standard Ecma-262, third edition, 1999.
 2. ISO/IEC 2382 \(all parts\), _Information technology — Vocabulary_
