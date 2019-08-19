@@ -36,5 +36,7 @@ ISO和IEC负责在如下地址维护用于标准化的术语数据库：
 〈template instantiation〉 constant-expression, type-id, or id-expression in the comma-separated list bounded by the angle brackets \(17.3\)  
 〈模板实例化〉尖括号内，以逗号分隔的列表中的常量表达式（constant-expression），类型标识符（type-id），或标识符表达式（id-expression）（17.3）
 
+#### 3.6 \[defns.block\] block
 
-
+wait for some condition (other than for the implementation to execute the execution steps of the thread of execution) to be satisfied before continuing execution past the blocking operation  
+在继续执行之前通过堵塞操作等待某些条件（非指用于执行执行线程的执行步骤的实现）的满足
